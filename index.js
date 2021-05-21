@@ -2,3 +2,4 @@
 
 console.log(`Hello Node.js v${process.versions.node}!`);
 console.log("Hans Wurst der I.");
+console.log("Freitag");
